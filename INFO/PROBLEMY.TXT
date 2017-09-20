@@ -1,0 +1,111 @@
+Ak objavite nejake problemy s prevadzkou programu SEDLIAK, prosim vyplnte
+tento formular a zaslite ho na adresu autora (uvedena v SEDLIAK.TXT).
+Ak ich nemate, tak to poslite aj tak.
+
+Verzia: __.__
+Ziskanie SEDLIAKa: [ ] od clena Aificu: _____________________________________
+                   [ ] od kamarata:
+                        [ ] moj kamarat je vyborny clovek
+                        [ ] len som ho vyuzil
+                        [ ] absolutny magor
+                        [ ] ina nadavka: ____________________________________
+                   [ ] z Level CD (cislo __/____)
+                   [ ] inak: ________________________________________________
+Procesor: [ ] 8086        [ ] 80486DX4      [ ] K6 3Dnow!
+(alebo    [ ] 8088        [ ] P5            [ ] Celeron
+ komp.)   [ ] NEC V20     [ ] Pentium       [ ] Mendocino
+          [ ] 80186       [ ] 5x86          [ ] Pentium III
+          [ ] 80286       [ ] 6x86          [ ] K7
+          [ ] 80386 SX    [ ] K5            [ ] Athlon
+          [ ] 80386 DX    [ ] Pentium MMX   [ ] iny: ________________________
+          [ ] 80486 SX    [ ] K6
+          [ ] 80486 DX    [ ] K6 MMX
+          [ ] 80486 DX2   [ ] WinChip
+          [ ] 80486 DX4   [ ] Pentium II
+Vyrobca procesora: [ ] AMD       [ ] Cyrix
+                   [ ] Intel     [ ] IDT
+                   [ ] iny: _________________________________________________
+Operacny system: [ ] Microsoft MS-DOS v._.__
+                 [ ] Digital Research DR-DOS v._.__
+                 [ ] PP-DOS v._.__
+                 [ ] IBM-DOS v._.__
+                 [ ] PC-DOS v._.__
+                 [ ] Tesla DOS v._.__
+                 [ ] Caldera OpenDOS v._.__
+                 [ ] Caldera OpenLinux v._.__
+                 [ ] Red Hat Linux v._.__
+                 [ ] IBM OS/2 v._.__
+                 [ ] UNIX: __________________________________________________
+                 [ ] LINUX: _________________________________________________
+                 [ ] Microsoft Windows _.__
+                 [ ] Microsoft Windows95
+                 [ ] Microsoft Windows98
+                 [ ] Microsoft Windows NT _.__
+                 [ ] Microsoft Windows2000
+                 [ ] iny: ___________________________________________________
+Konvencna pamat: [ ] 640 KB
+  (do 640KB)     [ ] 512 KB
+                 [ ] menej: ___ KB
+Pevny disk: [ ] IDE, kapacita: _____ MB  
+            [ ] EIDE, kapacita: _____ MB
+            [ ] SCSI, kapacita: _____ MB
+            [ ] iny: ________________________________________________________
+                kapacita: _____ MB
+Vyrobca pevneho disku: ______________________________________________________
+Model pevneho disku: ________________________________________________________
+Taktovacia frekvencia procesora: ____ MHz
+Graficka karta: _____________________________________________________________
+Videoram: __ MB VideoRAM
+Popis problemu: _____________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+Vyskusane riesenia: _________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+Odhadovane IQ autora programu: ___ (dakujem pekne, velmi pekne dakujem)
+
+==============================================================================
+Ako si predstavujete autora programu? 
+
+Farba oci: [ ] biela 
+           [ ] modra
+           [ ] cervena
+           [ ] biela, modra aj cervena so slovenskym znakom
+           [ ] zelena
+           [ ] hneda
+           [ ] cierna
+           [ ] kriklavozelena
+           [ ] lave oko modre, prave zelene
+
+Farba vlasov: [ ] cierna
+              [ ] hneda
+              [ ] blondak
+              [ ] cervena
+              [ ] podla pocasia
+
+Vyska: ____ cm   (Pomozem Vam, 28 to nie je)
+
+Pocet ruk: [ ] nula; o obidve prisiel pri partizanskom odboji proti ufonom
+           [ ] jedna; ufoni mu jednu ruku usetrili
+           [ ] dve; ufoni sa radsej sustredili na nohy
+           [ ] tri; ufoni mu jednu prioperovali
+           [ ] premenlivy
+           
+Keby sa tento tyzden konali parlamentne volby, odovzdali by ste svoj hlas
+zoskupeniu, v ktorom sa nachadza otec tvorstva Marek Hlavac?
+           [ ] nepochybujem o tom
+           [ ] pochybujem o tom
+           [ ] ani nahodou, ja volim Meciara!
+
+Aka je vasa orientacia?   [ ] lavicova
+                          [ ] pravicova
+                          [ ] severna 
+                          [ ] juzna
+                          [ ] homosexualna
+          

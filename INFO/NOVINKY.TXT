@@ -1,0 +1,70 @@
+---------------------------------------------------------------------[super]---
+NOVINKY V JEDNOTLIVYCH VERZIACH PROGRAMU SEDLIAK:
+ poradie: verzie --> najstarsia uplne dole, najnovsia hore
+          novinky v ramci jednotlivej verzie ---> najstarsia hore, najnovsia
+                                                  dole
+-------------------------------------------------------------------------------
+Verzia 2.00: CESTA K ESTE VACSIEMU PSYCHU
+ + SEDLIAK pozna niektore sviatky v roku a podla toho vas uvita v ordinacii
+ + opravena chyba piatku trinasteho (SEDLIAK v prvej verzii este nepochopil
+   podstatu a vyznam kalendara a tak si myslel, ze piatok 13th = sobota 13th)
+ + rozlucenie sa
+ + opravena chyba pri napisani riadku obsahujuceho iba interpunkcne znamienka.
+   V prvej verzii sa v tomto pripade program ukoncil.
+ + SEDLIAK dokaze omnoho rychlejsie reagovat na pacientove podnety (umoznuje
+   omnoho vacsiu slovnu zasobu bez predlzenia doby hladania oproti prvej
+   verzii - pocet reakcii na jedno slovo teraz moze byt maximalne 999 KPW
+   narozdiel od verzie 1.00, kde to bolo iba 3 KPW (KPW = Kecs per word = 
+   jednotka Kacnovej zhovorcivosti) - teda 333x nasobok! yeah! netvrdim vsak,
+   ze tam toho tolko aj je, to ani zdaleka nie!
+ ? nejake kozmeticke upravy (efekt, kamo, efekt) - napriklad ma SEDLIAK
+   tentokrat zeleny "imidz" a nie bielo-zlty ako minule; tiez nova ikona
+ + myslim si, ze Kacn ma teraz este viac psycho atmosferu a je podobnejsi
+   skutocnemu na hlavu padnutemu cloveku
+ + SEDLIAKa si uziju aj majitelia procesora Pentium II a novsieho intelackeho
+   (aspon dufam, ze to konecne bude fungovat)
+ ? (skoro) kompletne prepracovana slovna zasoba
+ + mozete si vybrat, ci chcete byt pacient alebo Kacn (t.j. psychiater)!!!
+ ? zmizol program SEDLIAK DEMO, lebo si myslim, ze to bola zbytocnost
+ + Kacn sa dokaze psychicky zrutit a pacient moze v ordinacii zomriet
+ + bonusy pre pisatelov listov - zaradenie na zoznam oficialnych pacientov
+ + prehladnejsie roztriedenie suborov (rozdelil som to do adresarov)
+ + pluginy! Mozete si zahrat nejake hry (tajnicka...).
+ + klavesnice (IBM, slovenska QWERTY/QWERTZ, ceska QWERTY/QWERTZ/amaterska)
+ ? obmedzenie dlzky vety na 75 znakov, aby nedochadzalo ku zalamovaniu slov
+   na okraji obrazovky a navyse, ziadny zlososenec (uzivatel/pacient/Kacn)
+   nebude pisat vety s nehoraznym poctom slov, ktore zbytocne predlzuju
+   Kacnovi vedenie (rychlost pochopenia vykecu)
+ ? kurzorom pri pisani textu je sipka ukazujuca nalavo
+ + zlepsena schopnost pochopit vyznam vety
+ + vbudovany jednoduchy antivirusovy system, detekujuci pritomnost virusov
+   IDEA.6128 a POJER v pamati RAM (to som zvedavy, kolko falosnych poplachov
+   zazijem, hehe)
+ + subory PACIENT.BAT a KACN.BAT; kazdy asi vie, na co to asi sluzi...
+ + EXE subory sa skryli do adresara ENGINE a konecne maju normalny
+   nazov
+ + je mozne nastavit aj farbu celeho pozadia programu
+ + dokumentacia aj vo formate HTML
+ ? Kacn si vypyta aj cenu za poskytnute(?) sluzby
+ + program opisuje aj vizualnu stranku rozhovoru < v ostrych zatvorkach >
+ + vyrazne vylepsene rozpoznavanie cisloviek (uz rozpozna aj slovom pisane
+   cislovky)
+ - ziadny zvuk
+ * statistika pre verziu 2.00: 21 vyskytov pluska, len raz minusko, 6x 
+                               otaznik (dobre, co?)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Verzia 1.00: PSYCHO ROZHOVOR S PUDR. MICHALOM KACABAYOM
+             (verejne publikovana sranda na Level CD 3/1999):
+ * prva verejne publikovana verzia (celkom pes, ale malo to nejake chyby...)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+                                                        svoj
+                                                          Marek Hlavac
+                                                             osobne
+---------------------------------------------------------[toaletny papier]----
+Legenda: + (  plus   ) pozitivna zmena    = vylepsenie
+         - (  minus  ) negativna zmena    = zhorsenie
+         ? ( otaznik ) diskutabilna zmena = nikto nevie, cakam na ohlas
+
+Odkaz:
+ Chcete aj Vy prispiet k tomu, aby bol SEDLIAK este omnoho lepsi, piste
+na moju adresu. Najdete ju v subore KONTAKT.TXT.

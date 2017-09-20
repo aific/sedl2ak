@@ -1,0 +1,633 @@
+ Posielajte mi svoje navrhy, pripomienky, zazitky, aby bol SEDLIAK este lepsi!
+
+                @@@@@  @@@@@ @@@    @     @   @@   @   @@
+               @     @ @     @ @@   @     @  @  @  @  @@
+               @       @     @  @@  @     @ @    @ @ @@
+                @@@@@  @@@@  @   @@ @     @ @    @ @@@  v.2.00
+                     @ @     @  @@  @     @ @@@@@@ @ @@
+               @     @ @     @ @@   @     @ @    @ @  @@
+                @@@@@  @@@@@ @@@    @@@@@ @ @    @ @   @@
+
+                      CESTA K ESTE VACSIEMU PSYCHU
+              
+                             verzia 2.00
+              Copyright (c) Aific 1998-2000 by Marek Hlavac
+                           Level CD Release
+                      SEDLIAK Public Release No.2
+                         Virtual Psycho System
+
+-----------------------------------[tento program nie je urceny pre slepych]---
+ BACHA! TOTO JE DOLEZITE UPOZORNENIE!
+ Obsah tohto suboru by ste si urcite mali precitat, pretoze:
+  a.) Obsahuje super informacie o tomto super programe.
+  b.) Pobavite sebaa!
+  c.) Je tu Kacnov zivotopis!
+  d.) A tiez zoznam oficialnych pacientov PUDr. Kacabayu.
+  e.) ...and much, much more... (viac, viac much a ineho hmyzu)
+----------------------------------------------------------[to je ina sranda]---
+ OBSAH
+ =====
+  1 Uvod
+  1.1 Licencna zmluva
+  1.2 Kontakt na autora
+  1.3 Poziadavky na spustenie programu SEDLIAK
+  1.4 Historia programu v kocke
+  1.5 Co je to Aific?
+  1.6 Kacnov zivotopis
+  1.7 Preco pouzivat prave SEDLIAKA?
+  2 Prax
+  2.1 Etika v Kacabayovej ordinacii
+  2.2 Ukoncenie rozhovoru
+  2.3 Kratka informacia o programe a cheaty
+  2.4 Tlac uryvku z rozhovoru (tzv. plostica v ordinacii)
+  2.5 Nastavenie prostredia programu
+  2.6 Automaticka tlac a tvorba zaznamov
+  2.7 Cennik Kacnovych sluzieb
+  3 Doplnkove programy
+  3.1 TEST.BAT
+  3.2 CREDITS.BAT
+  3.3 SKLAPNI.EXE
+  3.4 SEDLIAK SETUP (SETUP.BAT)
+  4 Dalsie informacie
+  4.1 Kompletna verzia
+  4.2 Tvorcovia SEDLIAKa (tzv. divoki sedliaci)
+  4.3 Zname problemy
+  4.4 Chybove hlasenia
+  4.5 Najvacsi inteligent na svete
+  4.6 Oficialni pacienti PUDr. Michala Kacabayu
+  4.7 Strucna charakteristika SEDLIAKa
+  4.8 SEDLIAK dvojka a podpora internetu
+  4.9 Recenzie na SEDLIAKa (uryvky)
+  5 Najcastejsie kladene otazky
+  5.1 Kedy sa na SEDLIAKovi zacalo pracovat?
+  5.2 Si fakt taky sprosty alebo sa tak len tvaris?
+  5.3 Opojila ma krasa a inteligencia Kacna. Co mam robit?
+  5.4 Neviem po slowensky a nechapem tejto otazke. Co s tym?
+  6 Moje nazory
+----------------------------------------------------------------[let's rock]---
+1 Uvod
+   
+   Vazeny uzivatel!
+    Nainstalovali ste si program SEDLIAK, ktory Vam bude napomocny kazdy den.
+   Od rana do hlbokej noci, ani nebudete prijimat potravu, ani nic vylucovat,
+   len budete sediet pred monitorom a ozarovat sa! Oziarenie je tu zadarmo!
+   Je to simulator psychiatra, s ktorym sa mozete bez obav porozpravat v jeho
+   ordinacii o vsetkom, co Vam zide na Vasu (choru) mysel. A to vsetko uplne
+   diskretne a zadarmo! Nemusite sa teda nicoho obavat, ani toho, ze by Vas 
+   Kacn udal za urazku za cti alebo by Vas zatvoril do zvieracej kazajky.
+    SEDLIAK bude urcite pastvou pre  vsetky vase zmysly: zrak -> vyzera
+   cool; sluch -> ma neuveritelny zvukovy doprovod v podobe tukania, tuk,
+   tuk...; cuch -> Kacnovi smrdia ponozky; chut -> program je priam
+   na zjedenie; hmat -> dotykas sa predsa keyboardu, nie?
+
+
+1.1 Licencna zmluva
+
+    Takze, aby ste mohli pouzivat SEDLIAK - najzhovorcivejsi program na svete,
+   musite splnit niekolko podmienok: 1. Neupravite copyright programu.
+                                     2. Pomocou SEDLIAKa nikoho materialne ne-
+                                        obohatite.
+                                     3. Neupravite ziadny zo suborov programu.
+                                     4. Neurazite Kacnovu rodinu.
+                                     5. SEDLIAKa budete rozsirovat len v 
+                                        kompletnej verzii.
+    To by boli, podmienky, teraz zo seba vykecam este zopar poznamok k nim.
+    Poznamka k podmienke 3: Tuto podmienku obsahovala aj licencna zmluva verzie
+   1.00. Zahrna v sebe aj to, ze sa nikto nebude pokusat SEDLIAKa zeditovat.
+    Poznamka k podmienke 4: No, obmedzene urazanie Kacnovej rodiny dovolim, ale
+   nepokusajte sa urazit jeho prababku!
+    Poznamka k podmienka 5: Zoznam suborov kompletnej verzie sa nachadza na
+   inom mieste v tejto dokumentacii.
+    AK NESUHLASITE S TOUTO ZMLUVOU, ZREJME BY STE MALI SEDLIAKA SPLACHNUT
+   ALEBO SA HO INAK ZBAVIT. (ALEBO HO ASPON NEPOUZIVAT.)
+    
+    !!! Dolezity dodatok k licencnej zmluve: !!!
+     Samozrejme, ak ste vydavatelom nejakych CD-ROMov alebo DVD-ROMov, alebo
+    na internete publikujete zbierky volne siritelneho softveru (freeware,
+    public domain, shareware, timeware, crippleware...), mozete do svojej
+    zbierky SEDLIAKa zaradit aj bez mojho vedomia. Ak vsak ide o velky
+    projekt, ktory sa bude predavat napr. v pocitacovych predajniach
+    na rozsiahlejsom uzemi, najlepsie urobite, ked mi poslete spravu,
+    v ktorej uvediete: 1. nazov kolekcie volne siritelneho softveru
+                       2. cenu celej kolekcie (to, za co sa to predava)
+                       3. ak je SEDLIAK uverejneny aj na internete,
+                          kde to je (presna adresa a nazov stranky)
+                       4. tvorcu kolekcie
+                       5. jej naklad (pocet kopii)
+     A ak chcete, mozte mi tu kolekciu aj poslat na cedecku (alebo 
+    devedecku, ale nemam na to technicke vybavenie). Ale jedine
+    zadarmo, nie na dobierku!
+    !!! koniec doleziteho dodatku k licencnej zmluve !!!
+
+
+1.2 Kontakt na autora
+
+    Dakujem za vsetky listy, co som ohladom SEDLIAKa dostal. Ak sa so mnou
+   chcete podelit o svoje skusenosti, postrehy, rady, literarne diela,
+   vtipy a podobne, napiste mi list na moju adresu:
+
+                           inteligent
+                           Marek Hlavac
+                           Jablonova 518/3
+                    031 04 Liptovsky Mikulas
+                           SLOVAK REPUBLIC
+
+    Ak mate nejake problemy s prevadzkou programu, prilozte k listu aj vyplneny
+   formular zo suboru PROBLEMY.TXT. Rad by som vedel, ako sa program sprava
+   na pocitacoch s procesorom Pentium III. V liste, prosim, spomente aj svoj
+   vek, verziu programu, konfiguraciu pocitaca.Na obalku napiste svoju adresu, 
+   aby som vedel, komu a kam mam odpisat. Ako bonus za napisanie listu sa 
+   dostanete na zoznam "oficialnych pacientov PUDr. Michala Kacabayu", 
+   ktory sa bude vzdy nachadzat v dokumentacii k SEDLIAKovi.
+    Prosba: Skuste posielat listy, ktore budu prinosne aj pre mna. Fakt
+   nemam moc chut si s niekym dopisovat a podobne blbosti. Prednostne
+   odpisujem tym, ktori mi poslu aj znamku.
+    A fakt! Poslite mi aj Vase vastne diagnozy, liecby, privitania,
+   rozlucky, hlasky a podobne... Budem rad jak pes.
+
+
+1.3 Poziadavky na spustenie programu SEDLIAK
+
+    Minule som to trochu s hardverovymi poziadavkami prepalil. SEDLIAK stale
+   pobezi aj na nejakej 286ke (neodporucam), ale za prakticke minumum 
+   povazujem uz len nejaku 486 s taktovacou frekvenciou 66 MHz. Sam som 
+   SEDLIAKa vytvoril na pocitaci s procesorom Pentium 120 MHz a som s nim
+   viac nez spokojny. Co sa RAMky tyka, 640 KB urcite bude stacit. Malo by
+   stacit aj 512 KB. Softverove poziadavky - aspon MS-DOS v.3.00. Odporucam
+   co najrychlejsi harddisk a farebny monitor. Kacnovu ordinaciu umiestnite
+   na disk, na ktory sa da zapisovat. SEDLIAK uz konecne pobezi aj na PC
+   s procesorom Pentium II! (dufam)
+    Tazko povedat, ci SEDLIAK dobre pracuje aj na XT, nemam to otestovane
+   a predpokladam, ze nie, lebo pouziva niektore funkcie BIOSu 286 a vyssieho.
+
+
+1.4 Historia programu v kocke
+
+    Cele to vyprovokoval program POKEC od Mariana Matysa z CD prilohy herneho
+   magazinu LEVEL. Moj spoluziak Alexander Hybl ma prinutil pustit sa do
+   niecoho podobneho. Najprv som si myslel, ze to bede primitivnost, kde
+   sa budu zadavat vety typu: "On byt dobry clovek." Velky omyl. O niekolko
+   dni to bol program schopny bez najmensich problemov sklonovat slova a 
+   casovat slovesa a podla toho v pohode odpovedat. Program sa volal PSYCHO.
+   Tak sa vsak uz vola jeden film a ja som nechcel cucat jeho (ne)slavu 
+   v Kacnov prospech, a tak sa PSYCHO premenovalo na SEDLIAKa. Za tymto nazvom
+   stoji mozog Radovana Puteca (dalsi moj spoluziak). Kacabaya (kratko Kacn)
+   je zase prezyvkou dalsieho (!!!) mojho spoluziaka Michala Kotiana. Podkladom
+   pre texty v programe boli dve moje "literarne diela" PUDr. KACABAYA A JEHO
+   PACIENTI: POSLEDNA POMOC a PUDr. KACABAYA A JEHO PACIENTI II: LINKA DOVERY.
+   SEDLIAK vo verzii 1.00 sa objavil na LEVEL CD 3/1999. Mal niekolko chyb,
+   v tejto verzii su uz opravene (pozri subor NOVINKY.TXT). Najvacsim jeho
+   problemom bolo to, ze nefungoval na Pentiu III. Tak, a najnovsia verzia
+   SEDLIAKa (v.2.00) je prave na Vasom pocitaci. A teraz pozor! Ta najvacsia
+   (atomova) bomba prichadza prave teraz! Uz nemusite byt len pacient, mozete
+   byt aj psychiater, samotny PUDr. Kacabaya!
+
+
+1.5 Co je to Aific?
+
+    Aific je skupina mladych schopnych ludi, ktori chcu programovat a vytvarat
+   tie najlepsie programy na svete (SEDLIAK, napriklad). Aific vznikol 18.maja
+   1997 spojenim dvoch minispolocnosti, ktore mali iba jedneho clena - 
+   MH Software (Marek Hlavac) a Synix (Peter Macko). Dnes (11.marec 1999) ma
+   Aific troch clenov: Mareka Hlavaca, Petra Macka a Andreja Holleho. Yeah!
+
+
+1.6 Kacnov zivotopis
+
+    Presne tu je to, po com Vase srdce tuzi a oci prahnu. Kacnov zivotopis! 
+   Supeeeeer! Ale teraz k veci, zavrite oci a pocuvajte psychiatrov pribeh...
+   No, takze tie oci by ste mali otvorit, lebo ho aj tak budete citat.
+    Kacn sa narodil. To je to podstatne. Bolo to davno a v rodine mentalne
+   zaostaleho zubara, ktory svojim pacientom trhal nielen zuby, ale aj vlasy.
+   O svojho otecka vsak nestastne prisiel. Jedneho dna ku drevenici rodiny
+   Kacabayovcov prisla sanitka. Vysli z nej dvaja ludia v bielych plastoch,
+   na otca nahodili zvieraciu kazajku a odisli s nim nevedno kam. Neskor
+   sa zistilo, ze ti ludia v plastoch boli dostojnici istej tajnej sluzby.
+   Tato udalost z detstva sa Kacnovi vryla hlboko do pamati. Tak sa teda chcel
+   stat psychiatrom.
+    Studoval na Hrobarskej akademii v Kacabaya City. Ako volitelny predmet
+   si vybral psychiatriu. Od tej doby je psychiater a je odhodlany kazdemu
+   pomoct. Isty Kleofas Ignac Fotogenicky, mimochodom vitaz sutaze krasy
+   Chrup '99, ho jedneho dazdiveho dna priucil umeniu posunovaca u drahy
+   a udelil mu titul, na ktory je Kacabaya teraz velmi hrdy, PUDr. - posunovac
+   u drahy!
+    Nasledkom ekonomickeho a socialneho balicka novej vlady statu Kacabaya
+   Republic bola Kacnova financna kriza. Tak sa teda usidlil pod dialnicnym
+   mostom v krabici cislo 9. Tam mu vsak bolo prilis vlhko, a tak sa presta-
+   hoval do sudu cislo 14. Velku kopu srandy zazil, ked zistil, ze sa v nom
+   uchovava jadrovy odpad z elektrarne v Cernobyle. To ho totalne oziarilo
+   a narastla mu tretia ruka. Na chrbte.
+    Ked raz Kacn nasiel v trave pohodenu penazenku, v ktorej bolo pat milionov
+   slovenskych korun, zalozil si sukromnu psychiatricku poradnu. Potom zalozil
+   politicku stranu NDIZSASVOPVSNPPKOSR (Nezavisla demokraticka iniciativa
+   za slobodu a spolunazivanie v oddeleniach psychiatrie v slovenskych nemo-
+   cniciach pre psychopatov, ktori obyvaju Slovensku republiku). Vyhral volby,
+   vsetko vytuneloval, nabalil sa peniazmi a cakal na spravnu chvilu. Ta sa 
+   naskytla, ked NATO zacalo bombardovat Juhoslovansku zvazovu republiku, tak
+   sa tam nakoniec nastahoval (konkretne do Vojvodiny - mesto Novi Sad). 
+   Tam si zalozil novu poradnu a pomaha tamojsej slovenskej mensine...
+
+
+1.7 Preco pouzivat prave SEDLIAKa?
+
+    Nasleduje niekolko dovodov, preco pouzivat prave SEDLIAKa a nie napriklad
+   konkurencne "srandy" bez skutocnej srandy:
+
+    1.) Program velmi dobre ocenia aj schizofrenici, pretoze mozete byt
+        aj psychiater, aj pacient.
+    2.) SEDLIAKa je viac psycho ako vsetky ine "srandy" dokopy.
+    3.) Po pouziti (zneuziti) sa Vam ulavi na dusi a budete sa citit lepsie.
+    4.) Program je vhodny pre studentov psychiatrie a psychologie, pretoze
+        moze sluzit ako trenazer skutocnej ordinacie (wohohoa, kde mam nohy?).
+    5.) Je to velmi ucinna zbran proti prepadnutiu kazdodennemu stereotypu.
+    6.) Rozsirite si slovnu zasobu o niekolko vyrazov, ktore budete potom
+        fanaticky pouzivat.
+    7.) Ked sa uz kecalo o studentoch, tento coolovskij simulator ocenia
+        aj novinari-zaciatocnici, ktori mozu s panom posunovacom robit
+        nespocentny pocet interview a potom ich uverejnovat v New York
+        Times.
+
+----------------------------------------------------------------------[oral]---
+2 Prax
+
+
+2.1 Etika v Kacabayovej ordinacii
+
+    Nedavno si Kacn na dvere do ordinacie nalepil kus papiera, na ktory
+   napisal niekolko zasad, ktore by mali platit v jeho ordinacii:
+
+    1.) Pocas rozhovoru sa Kacna ani pacienta nedotykajte, zbytocne vam zosta-
+        nu na monitore otlacky Vasich prstov. Ti, co sa zaoberaju daktylo-
+        skopiou by si prisli na svoje...
+    2.) Nepouzivajte diakritiku, Kacn je totiz iba pologramotny. A pacient
+        mozno tiez! (ze vraj hej)
+    3.) V pohode mozete pouzivat interpunkcne znamienka (bodky, dvojbodky,
+        ciarky, bodkociarky, vykricniky, otazniky, trojbodky...). Ludom sa to
+        totiz paci a budu Vas za to mat velmi radi. Kacnovi napriklad uz
+        aj postavili sochu.
+    4.) Takze, aby Vas kazdy pochopil, vety formulujte v spisovnej slovencine
+        (hoci pre zahranicnych Slovakov to moze byt predsa len tazke; to je
+        vsak Kacnov problem, ze odisiel do Vojvodiny) a co najpresnejsie.
+    5.) Neplujte na nikoho, koho slova sa Vam nepacia. Doktor Kacabaya sa
+        velmi casto domov vracia mokry.
+    6.) Je prisne zakazane nosit do Kacnovej ordinacie zbrane a motorove pily.
+        Kacn ma uz totiz dost umyvania cervenych skvrn na koberci.
+    7.) Chlape, je to traumatizujuce!
+
+
+2.2 Ukoncenie rozhovoru
+
+    Ked uz mate Kacnovej psychozy dost alebo Vam Vas pacient zacina liezt
+   na nervy, mozete z ordinacie odist (ak ste pacient) alebo z nej vyhodit 
+   svojho pacienta (ak ste Kacn). Staci, ked do riadku nenapisete nic...
+   ...a Vas problem okamzite zmizne, ale ma to jeden hacik. Vratite sa znovu
+   do normalneho sveta... (Ale za rozpilenie svojho pacienta cirkularkou to
+   stoji, nie?)
+
+
+2.3 Kratka informacia o programe a cheaty
+
+    Ak si chcete precitat niekolko vaznych kecov a nopustit pritom ordinaciu,
+   napiste "credits", zobrazi sa Vam kratka informacia o programe (copyright,
+   betatesteri, licencia...).
+    Co sa tyka cheatov, vo verzii 1.00 som ich nechcel prezradit, ale tu
+   ich uz prezradim (okrem ".time" funguju vsetky aj v prvej verzii):
+
+    ".time"       - informacia o presnom (systemovom) case
+    ".iq0 on"     - odvecaky (tzv. inteligentne vykecy)
+    ".iq0 off"    - inteligentnejsi prejav (vypne ".iq0+")
+    ".cls"        - nudzove zmazanie obrazovky
+    ".magyar on"  - do ordinacie pride prislusnik narodnostnej mensiny
+    ".magyar off" - Slota by sa potesil
+    ".pohreb"     - pochovanie pacienta (len ked si Kacn)
+
+    Je tu este jeden cheat, ten vsak je z dovodu svojho obsahu 
+   neuverejnitelny (text pisal Peter Mikita z Vychodnej, ak by ho niekto
+   poznal alebo chcel nakontaktovat) a kto chce, nech si ho zisti, nie je
+   to nic narocne.
+    Este poznamka, najlepsie by bolo Petra Mikitu nakontaktovat na vysoke
+   napatie.
+
+
+2.4 Tlac uryvku z rozhovoru (tzv. plostica v ordinacii)
+
+    Kacnovi nikdy nevadilo, ked mal plostice v ordinacii. Uz davno ho totiz
+   sleduju rozne tajne sluzby. Zvykol si.
+    Plosticu mu mozete do ordinacie ulozit aj vy. Napiste:
+     "tlac rozhovor",
+     "vytlac rozhovor" 
+     alebo tiez aj "zapni tlac".
+   Vas rozhovor sa bude priebezne tlacit. Plosticu z ordinacie mozete 
+   odstranit napisanim: 
+     "vypni tlac",
+     "netlac rozhovor"
+     alebo "prestan tlacit".
+   SEDLIAK na tlac pouziva tlaciaren na porte LPT1.
+    Pre zaujimavost prikladam podrobnejsi opis odstranenia plostice zo super
+   ordinacie: Otvoria sa dvere a do ordinacie vbehne clovek so zakockovanym
+   xichtom, s pancuchou na hlave a ponozkou v ustach. Unesie Kacna do
+   Hainburgu (pekne mesto, mal som tam cest byt, fakt) a zabavi sa. Tot vse.
+   Zdravim seba.
+
+
+2.5 Nastavenie prostredia programu
+
+    Doktor Kacabaya sa dokaze prisposobit skoro vsetkemu. Len a len pre Vas,
+   svojho oblubeneho pacienta, dokaze zmenit konfiguracny subor (SEDLIAK.CFG).
+    Posluzi Vam na to program SEDLIAK SETUP. Mozete ho spustit pomocou
+   davkoveho suboru SETUP.BAT. Po spusteni sa Vam zobrazi tabulka, kde
+   mozete stlacanim ENTERu menit hodnoty jednotlivych volieb. Strucny popis:
+
+    FARBA TEXTU - KACN    ---> farba, ktorou budu oznacene slova, ktore povie
+                               pan doktor Kacabaya
+    FARBA TEXTU - PACIENT ---> touto farbou budu oznacene slova Kacnovho
+                               pacienta
+    FARBA TEXTU - POZNAMKY---> popisuju dianie naokolo
+    AUTOMATICKA TLAC      ---> zapnutie/vypnutie automatickej tlace
+    TVORBA ZAZNAMOV       ---> tvorit zaznamy z rozhovorov v subore
+                               ZAZNAMY.TXT
+    UPRATOVANIE ORDINACIE ---> pravidelne navsetvy upratovacky (na prd)
+    KTO CHCES BYT?        ---> mozete si vybrat, ci chcete byt Kacn alebo jeho
+                               pacient
+    ZVUKOVA KARTA         ---> nastavenie zvukovej karty (nema vplyv)
+    GRAFICKA KARTA        ---> nastavenie grafickej karty (nema vplyv)
+    MEDZINARODNA JAZYKOVA
+    PODPORA               ---> vylepsena podpora niektorych jazykov (nema 
+                               vplyv)
+    KLAVESNICA            ---> volba klavesnice (slovenska QWERTY/Z, ceska
+                               QWERTY/Z, ceska amaterska, IBM)
+    ORIGINALNE NASTAVENIE ---> nastavi preddefinovane hodnoty
+
+    A ake su preddefinovane hodnoty? Kacn pise svetlozelenou farbou, pacient
+   tmovozelenou. Automaticka tlac a tvorba zaznamov vypnute, ozvucenie
+   zapnute. Uzivatel je standardne pacientom. Zvukova karta PC Vykecavac,
+   graficka karta CGA a jazykova podpora pre madarcinu.
+    Dolezita informacia: Nastavenie zvukovej a grafickej karty + medzinarodna 
+   jazykova podpora je funkcna iba v pesverzii SEDLIAKa. Musite si ju kupit. 
+   Ma to vsak jeden hacik. Neexistuje ani jedna takato pesverzia. Brekeke!
+   (vtipne az strach...)
+
+
+2.6 Automaticka tlac a tvorba zaznamov
+
+    Co to vlastne je?
+     Automaticka tlac - Pri starte program zisti, ci je zapnuta tlaciaren
+                        a ak ano, zacne tlacit rozhovor. Vytlaci sa aj cas
+                        a datum rozhovoru. Neuveritelne! Fakt neuveritelne!
+     Tvorba zaznamov  - Rozhovor sa automaticky uklada do suboru ZAZNAMY.TXT.
+                        Zaznamena sa cas aj datum rozhovoru.
+
+
+2.7 Cennik Kacnovych sluzieb
+
+    Nas pan doktor psychiater tiez potrebuje jest. Aby nemusel kradnut, musi
+   si na to zarabat. A on ma vlastnu ordinaciu! Coool! Takze si za rozhovor
+   ceny uctuje takto: 69 Sk za vstup do ordinacie, 17 Sk za kazdu odentrovanu
+   vetu. Minimalna cena pobytu v ordinacii: 86 Sk. Platite len za hovor.
+
+-------------------------------------------------------------[prach je hnus]---
+3 Doplnkove programy
+
+
+3.1 TEST.BAT
+    
+    Program otestuje, ci je program SEDLIAK spravne nainstalovany. Ak nie je,
+   oznami uzivatelovi, ktore suboru chybaju. Uzivatel potom sam bude vediet,
+   ktore subory ma preinstalovat.
+
+
+3.2 CREDITS.BAT
+ 
+    Ktory clovek by netuzil po slave... Program CREDITS.BAT spusti titulky,
+   ktore obsahuju zoznam autorov, licencnu zmluvu a jednu fakticku poznamku.
+   Inak nic zaujimaveho, sluzi to len na to, aby som si o sebe myslel, ze som
+   slavny. A program najnovsie vykazuje aj poruchu. Psychicku.
+
+
+3.3 SKLAPNI.EXE
+
+    Uzitocny program na umlcanie PC SPEAKERa, ked zostane pipat... Nejako
+   sa mi zda, ze vzhladom na slizku absenciu zvuku v SEDLIAKovi dvojke
+   je to zbytocnost, ale aj malickost potesi. Vzdy lepsie, ako keby som k 
+   programu pridal napriklad zubnu nit.
+
+
+3.4 SEDLIAK SETUP (SETUP.BAT)
+
+    Program urceny na nastavenie prostredia programu SEDLIAK. Viac sa o nom
+   docitate v casti dokumentacie 2.5 - Nastavenie prostredia programu.
+
+-------------------------------------------------------[velmi pekne dakujem]---
+4 Dalsie informacie
+
+
+4.1 Kompletna verzia
+
+    Ak chcete SEDLIAKa rozsirovat, musite mat kompletnu verziu. Ked je SEDLIAK
+   nekompletny, neda sa ani spustit, tu je teda zoznam suborov kompletnej
+   verzie: nechce sa mi to pisat, program by si to mal sam skontrolovat...
+
+
+4.2 Tvorcovia SEDLIAKa (tzv. divoki sedliaci)
+
+    Tu je zoznam vsetkych osob, ktore maju v SEDLIAKovi prsty:
+
+     Veduci projektu..........................Marek Hlavac (to som ja)
+     Programovanie............................ta ista osoba (inteligent)
+     Betatesting v.1.00.......................Alexander Hybl
+                       .......................Peter Macko
+                       .......................Jan Dzurek
+                       .......................Radovan Putec
+                       .......................Ivan Buffa
+                       .......................Vladimir Zachar
+                       .......dodatocne aj....Milan Potancok
+     Betatesting v.2.00.......................Jan Dzurek
+                       .......................Peter Macko 
+                       .......................Alexander Hybl
+                       .......................Milan Potancok
+     Extra thanks.............................Peter Mikita
+                 ..............................za cast slovnej zasoby do
+                 ..............................rezimu MIKITA MODE (".mikita+")
+                 .............................Milan Potancok (MinoSoft)
+                 ..............................za cast vseobecnej slovnej
+                 ..............................zasoby
+                 .............................Alexander Hybl za dost malu,
+                                              ale aspon nejaku cast slovnej 
+                                              zasoby
+     Dodatok..................................pocet betatesterov sa moze
+                                              zdat vysoky, ale okrem M.P.
+                                              dokopy nic nespravili a 
+                                              radsej skakali v bikinach
+
+4.3 Zname problemy
+
+    Pod DOSom: no problem.
+    Pod Majkrosoft Vindouz (MS Windows, for your information): some problems.
+    Problemy pod Vindouzami: automaticka tlac (ak nie je zapnuta tlaciaren,
+                             Windows na to upozorni), tlac (vsetko sa vytlaci
+                             az po ukonceni programu), vystup na obrazovku
+                             (v poriadku je vtedy, ked SEDLIAK nebezi v okne).
+    Ale teraz bacha! Ak vsak chcete mat vacsi vykon, spustajte Kacna predsa
+    len pod Vindouzami, lebo rychlejsie pracuju s diskom. Stlacte vsak 
+    Alt+Enter, aby nemusel bezat v okne, pretoze ja sam uprednostnujem
+    behanie po trave, chodniku alebo o hocicom inom, len nie v okne!!!
+
+
+4.4 Chybove hlasenia
+
+    Popis niektorych chybovych hlaseni a mozne riesenie problemu:
+     "Nemozem najst subor..." - nekompletna verzia SEDLIAKa; preinstalovat
+                                program
+     "Na disk sa musia dat zapisovat udaje!" - disk je chraneny proti zapisu;
+                                               nainstalujte program na disk,
+                                               ktory proti zapisu chraneny nie
+                                               je
+     "SEDLIAK potrebuje MS-DOS minimalne verzie 3.0!" - stary DOS; mali by ste
+                                                        upgradovat na vyssiu
+                                                        verziu
+     "Virus (meno) najdeny v RAM!" - SEDLIAK testuje pri starte RAMku
+                                     na pritomnost 2 virusov v RAM. Nejaky
+                                     bol najdeny. Urychlene pretestujte
+                                     pocitac antivirovym programom.
+     "Chyba pri spustani pluginu." - nekompletna verzia SEDLIAKa alebo
+                                     ina chyba s pluginom. Mozno je poskodeny
+                                     nejaky zo suborov v adresari PLUGINS.
+     "Runtime error XXX at XXXX:XXXX." - chyba vziknuta pocas behu programu;
+                                         odpiste si cisla a zaslite mi spravu,
+                                         program je vsak testovany, chyby by
+                                         sa vyskytnut nemali (toto som pisal
+                                         aj pri SEDLIAK 1 a nebola to pravda)
+
+
+4.5 Najvacsi inteligent na svete
+     
+    Tak, a teraz trochu samochvaly (udaje platne ku dnu 13.8.1999):
+    
+     Krstne meno.................................................Marek
+     Priezvisko.................................................Hlavac
+     Ulica.............................................Jablonova 518/3
+     Mesto...........................................Liptovsky Mikulas
+     PSC.........................................................03104
+     Kraj.....................................................Zilinsky
+     Stat..........................................Slovenska republika
+     Rodne cislo...........................................860623/8058
+     Datum narodenia.........................................23.6.1986
+     Skola...............................Gymnazium v Liptovskom Hradku
+     Studijny odbor.................................38 - programovanie
+     Pohlavie...................................................muzske
+     IQ................................................extremne vysoke
+     Narodnost...............................................slovenska
+     Prezyvka...................................................Sergio
+     Oblubena farba..............................................modra
+     Oblubene jedlo..................................bryndzove halusky
+     Oblubeny operacny system....................................Linux
+     Oblubene casopisy.................................PC Revue, Level
+     
+
+4.6 Oficialni pacienti PUDr. Michala Kacabayu
+
+     Milan Potancok (MinoSoft), Jasenie, okres Brezno, Slovenska republika
+
+
+4.7 Strucna charakteristika SEDLIAKa
+
+     + otvoreny novym myslienkam
+     + vynikajuci
+     + zhovorcivy
+     + najlepsi
+     + dokonaly
+     + inteligentny
+     + namakany
+     + rychly 
+
+
+4.8 SEDLIAK dvojka a podpora internetu
+
+     Takze so SEDLIAK dvojkou prisla aj podpora internetu. Mozete mi posielat
+    maily na adresu sedliak@email.sk. Dufam, ze ich dostanem co najviac!
+    Najnovsie informacie o vyvoji programu si pozrite na stranke
+    www.sedliak.sk. Na tejto adrese si tiez mozete downloadnut najnovsie
+    rozsirenia slovnej zasoby Vasho osobneho rozumneho psychiatra.
+     Kliknite na odkaz "PRIBEHY" a mozete si precitat tie najlepsie poviedky
+    o Kacnovi! Je ich tam takmer 200 a vsetky su vynikajuce!
+     Dufam, ze sa Vam i-netovske sluzby, ktore Vam ZDARMA poskytujem, pacia.
+     JAJ, TO ZME SA POBAVILI! YEAH, CHLAPE, JE TO TRAUMA! SKUS SA NA TO
+    POZRIET A POBAVIS SA! (...ked zistis, ze som klamal...) (...k webu nemam
+    ani len poriadny pristup...)
+
+
+4.9 Recenzie na SEDLIAKa (uryvky)
+
+     "...radsej by som sa nahrial nad parou..." - Sergej Kombajn, LesPes Revue
+
+     "Vdaka za posedenie u Kacna! Vdaka! O, vdaka! Vzdavam ti vdaku! Vdaka
+     ti!" - Oleg Traktor, LasKozas Magazine
+
+     "Sypanie si vlociek je vacsia sranda." - Ivan Sergejevic Losos, LosOvcas
+     Times
+
+
+-------------------------------------------------[boris jelcin, vlado putin]---
+5 Najcastejsie kladene otazky
+
+   No, pri verzii 1.00 som spominal, ze tu sa budu nachadzat vase otazky.
+  Takze, nejake listy mi sice prisli, ale nebolo tam moc otazok, takze 
+  idem znovu improvizovat.
+
+
+5.1 Kedy sa zacalo na SEDLIAKovi pracovat?
+
+   Dost davno. Pisal sa rok 1998 nasho letopoctu, siedmy mesiac (jul),
+  sestnasty den toho mesiaca. To bol zaciatok prace na SEDLIAKovi 1.00.
+  Bol hotovy v januari 1999 a vysiel na prilohe jubilejneho patdesiateho
+  cisla Levelu (Level CD 99:03 - marec 1999).  
+
+
+5.2 Si fakt taky sprosty alebo sa tak len tvaris?
+
+   Tazka otazka, jednoducha odpoved. Prach nad Kremlom viri sa jak z vodo-
+  jemu i inych nadob na vodu a ci i ine pitivo tam nasypes, vlocky zostanu
+  na podlahe. Straz toho, kto macku o stenu hadze bez toho, aby vedel, kolko
+  oci jej vypadne po naraze. Uvazit treba i vystrel z motorky po oholeni
+  vysusenej hrusky.
+
+
+5.3 Opojila ma krasa a inteligencia Kacna. Co mam robit?
+
+   Poriadne pohrab seno na zahumni Jaslovskych Bohunic. Obyvatelia sa ti
+  pekne podakuju.
+
+
+5.4 Neviem po slowensky a nechapem tejto otazke. Co s tym?
+
+   Toto je pekny priklad otazky, ktoru som si neuvazene vymyslel a neviem
+  na nu napisat primeranu odpoved. Zabava na lade.
+
+
+5.5 Ty piiiip, preco si mi neodpisal?!
+
+   Neodpovedam na sprostosti a odveci veci. Dakujem za pochopenie pre cloveka.
+  No, toto som napisal ako vyhovorku. Spociatku som odpisoval na vsetko,
+  potom ma to omrzelo a odpisal som komu sa mi chcelo. Je to dost nefer,
+  ale ked treba dat pod stol homara, aby lampa sa smiala...
+-------------------------------------------------------------------------------
+6 Moje nazory
+
+   Tu by som chcel upozornit, ze pod pojmom ja rozumiem seba (=Marek H.)
+  a nikoho ineho. Preto tu budu uverejnene myslienky osoby nazyvanej ja
+  a ziadnej inej osoby, ktora by mohla byt spomenuta vyssie.
+
+
+6.1 Co si myslis o POKECe, ja?
+
+   Moja osoba ako prvy POKEC mala zbadanu verziu tretiu. Spociatku to
+  mnou bolo povazovane ako vec, co je uzasna, ale udelil som si nazor,
+  ze s kazdou verziou, co bola dalsia, sa to stavalo zhorsenym. A tento
+  nazor je u mojej osobnosti povazovany za platny dodnes.
+
+
+6.2 Moja osoba, nemas dojem, ze slovenski jazykovedci by mali urobit nejake
+    zmeny v nasom jazyku?
+
+   Iste. Ako priklad nech sluzi veta: "Co si sprosty ci co?".
+   Osporucam, aby sa to pisalo: "Co si sprosty cico?". Vdaka.

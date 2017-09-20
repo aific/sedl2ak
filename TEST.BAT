@@ -1,0 +1,7 @@
+@ECHO OFF
+ENGINE\TESTING.EXE qwertyuiop /*-+
+IF ERRORLEVEL = 1 GOTO END
+ECHO.
+ECHO Program SEDLIAK 2.00: CESTA K ESTE VACSIEMU PSYCHU je nainstalovany spravne.
+ECHO.
+:END

@@ -1,0 +1,54 @@
+------------------------------------------------------------------------------
+Tu je zoznam a popis suborov, ktore maju nieco spolocne so SEDLIAKom 2.
+
+Pozn.: To, co ma pred sebou nieco taketo ---> "*", to sa neda spustit
+       same osebe. Yeah!
+------------------------------------------------------------------------------
+ Hlavny adresar programu SEDLIAK:
+
+     CREDITS .BAT  ---> zoznam ludi, ktori maju v SEDLIAKovi koncatiny    
+     KACN    .BAT  ---> spustit SEDLIAKa  (uzivatel = Kacn)
+     PACIENT .BAT  ---> to iste (uzivatel = pacient)
+     SEDLIAK .BAT  ---> spustenie SEDLIAKa 2: CESTA K ESTE VACSIEMU
+                        PSYCHU
+     SETUP   .BAT  ---> davkovy subor spustajuci SEDLIAK SETUP
+     TEST    .BAT  ---> test korektnej instalacie programu
+     SEDLIAK .CFG  ---> konfiguracny subor
+------------------------------------------------------------------------------
+ Podadresar ENGINE\... :
+
+     KREDITZ .EXE  ---> telo zoznamu ludi s prstami v SEDLIAKovi
+     SKLAPNI .EXE  ---> umlcanie PC Speakera
+   * SSETUP  .EXE  ---> telo programu SEDLIAK SETUP
+   * TESTING .EXE  ---> samotestujuca sa rutina SEDLIAKa
+   * VPS     .EXE  ---> moj perfektny engine na tvorbu zhovorcivych
+                        programov (Virtual Psycho Engine)
+     SEDLIAK .ICO  ---> ikona pre Majkrosoft Vindouz
+------------------------------------------------------------------------------
+ Podadresar INFO\... :
+    
+     INFO    .     ---> kratky informacny text
+     AWARDS  .TXT  ---> vsetko potrebne ohladom projektu SEDLIAK AWARDS
+     KONTAKT .TXT  ---> moja adresa
+     NOVINKY .TXT  ---> vylepsenia oproti predchadzajucej verzii
+     PLUGINS .TXT  ---> o sedliackych hrach
+     PROBLEMY.TXT  ---> ked sa vyskytnu problemy...
+     SEDLIAK .TXT  ---> hlavny dokumentacny subor
+     SUBORY  .TXT  ---> tento inteligentny subor
+------------------------------------------------------------------------------
+ Podadresar KEYBS\... :
+
+     INFO    .     ---> trochu malo informacii o obsahu adresara
+     CZEAM   .KEY  ---> ceska amaterska klavesnica
+     CZETY   .KEY  ---> ceska QWERTY kejborda
+     CZETZ   .KEY  ---> ceska QWERTZ psychonska klavesnica
+     IBM     .KEY  ---> ajbiem kejbord
+     SVKTY   .KEY  ---> slovenska QWERTY kejborda
+     SVKTZ   .KEY  ---> slovenska QWERTZ klavesnica
+------------------------------------------------------------------------------
+ Podadresar PLUGINS\... :
+
+     INFO    .     ---> kratke (i)nfo
+   * CREDITS .EXE  ---> taka mala nepodstatna blbost
+   * TAJNICKA.EXE  ---> sedliacka tajnicka
+     0SEDLIAK.PFG  ---> konfiguracny subor pre pluginy
