@@ -2,6 +2,8 @@
 
 A classic Slovak game for MS DOS, in which you chat with a psychiatrist. (Available only in Slovak.)
 
+Download: [sedl2ak.zip  (145 KB)](https://github.com/aific/sedl2ak/releases/download/v2.0/sedl2ak.zip)
+
 ## Introduction
 
 Did you know that talking to a psychiatrist could be quite enjoyable? PUDr. Michal Kacabaya, also known as Kacn, is really weird: Although you would probably not want to consult him even if you desperately need the help of a psychiatrist, talking to him is nevertheless a, shall we say, interesting experience. In this game, you can chat with him - maybe he will cure you! Alternatively, you can be PUDr. Kacn yourself, and try to help patients who come in seeking your 'expert' advice.
